@@ -1,0 +1,35 @@
+# AI Visibility Auditor Robots Policy
+User-agent: *
+Allow: /
+Disallow: /api/
+
+# AI Search Engine Crawlers Explicit Access
+User-agent: Googlebot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+# Canonical Sitemap Index
+Sitemap: /sitemap.xml

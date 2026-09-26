@@ -1,0 +1,8 @@
+{
+  "name": "AI Visibility Auditor",
+  "description": "Production-ready AI SaaS platform for deep website auditing (SEO, AEO, AIO, GEO, E-E-A-T), URL-by-URL crawl analysis, and multilingual AI assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "AI Visibility Auditor",
+  "short_name": "AIVisibility",
+  "description": "Production-ready AI SaaS platform for deep website auditing (SEO, AEO, AIO, GEO, E-E-A-T), URL-by-URL crawl analysis, and multilingual AI assistant.",
+  "start_url": "/",
+  "id": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": [
+    "productivity",
+    "business",
+    "education",
+    "utilities"
+  ]
+}
